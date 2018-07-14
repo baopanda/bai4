@@ -8,7 +8,7 @@ import com.google.common.cache.CacheBuilder;
 import com.google.common.cache.CacheLoader;
 import com.google.common.cache.LoadingCache;
 
-
+/* Chinh sua tren client */
 public class Bai3 {
 	public static void main(String[] args) {
 		LoadingCache<Integer,List<Integer>> caches = CacheBuilder.newBuilder()
