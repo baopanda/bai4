@@ -9,7 +9,7 @@ import com.google.common.cache.CacheLoader;
 import com.google.common.cache.LoadingCache;
 
 
-/* Chinh sua tren client vs server */
+/* Chinh sua tren client */
 
 
 public class Bai3 {
